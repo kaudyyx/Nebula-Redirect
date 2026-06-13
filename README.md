@@ -5,3 +5,4 @@ This is Nebula's redirect. It's basically just a Starfall redirect with a few mo
 The redirect includes Sentinel Anti-Cheat, but it's terrible. Honestly, even a 5-year-old could probably make something better.
 
 Don't use this.
+https://github.com/kaudyyx/Nebula-14.60GS
