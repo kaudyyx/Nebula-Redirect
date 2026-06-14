@@ -7,5 +7,5 @@ The redirect includes Sentinel Anti-Cheat, but it's terrible. Honestly, even a 5
 Don't use this.
 https://github.com/kaudyyx/Nebula-14.60GS
 
-#Soon Nebula Cheat
+# Soon Nebula Cheat
 
